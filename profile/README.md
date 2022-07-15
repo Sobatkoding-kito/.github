@@ -1,10 +1,10 @@
-# Selamat datang di komunitas SobatKoding github indonesia
+# Selamat datang di komunitas Projek Open-Source SobatKoding Indonesia!
 
 ![](https://sobatkoding.my.id/assets/img/logo.png) 
 
 
 komunitas Projek Open-source SobatKoding Indonesia
-### Pendaftaran
+### Pendaftaran member baru
 
 Nama,
 Nomor HP/WA dan
