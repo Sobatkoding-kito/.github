@@ -1,6 +1,6 @@
 # Selamat datang di komunitas SobatKoding github indonesia
 
-![](https://github.com/indonesia/community/raw/master/octacat.png) 
+![](https://sobatkoding.my.id/assets/img/logo.png) 
 
 
 komunitas Projek Open-source SobatKoding Indonesia
