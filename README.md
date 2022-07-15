@@ -1,6 +1,7 @@
 # Selamat datang di komunitas SobatKoding github indonesia
 
-![](https://sobatkoding.my.id/assets/img/logo.png) 
+
+<img src="https://sobatkoding.my.id/assets/img/logo.png" width="300">
 
 
 komunitas Projek Open-source SobatKoding Indonesia
