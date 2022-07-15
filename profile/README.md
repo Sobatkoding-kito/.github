@@ -1,7 +1,6 @@
 # Selamat datang di komunitas Projek Open-Source SobatKoding Indonesia!
 
-![](https://sobatkoding.my.id/assets/img/logo.png) 
-
+![] <img src="https://sobatkoding.my.id/assets/img/logo.png" width="300">
 
 komunitas Projek Open-source SobatKoding Indonesia
 ### Pendaftaran member baru
