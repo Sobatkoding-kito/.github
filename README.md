@@ -6,8 +6,8 @@
 komunitas Projek Open-source SobatKoding Indonesia
 ### Pendaftaran
 
-Nama
-Nomor HP/WA
+Nama,
+Nomor HP/WA dan
 Lokasi
 
 PM langsung dengan ketentuan diatas ke email
