@@ -3,13 +3,9 @@
  <img src="https://sobatkoding.my.id/assets/img/logo.png" width="200">
 
 komunitas Projek Open-source SobatKoding Indonesia
-### Pendaftaran member baru
 
-Nama,
-Nomor HP/WA dan
-Lokasi
-
-PM langsung dengan ketentuan diatas ke email
+Any Question?
+email
 komunitas@sobatkoding.my.id
 Thanks!
 
